@@ -1,0 +1,52 @@
+GET /home/%E6%A1%8C%E9%9D%A2/net/1 HTTP/1.1
+Host: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+on: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET /home/%E6%A1%8C%E9%9D%A2/net/1 HTTP/1.1
+Host: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET /home/%E6%A1%8C%E9%9D%A2/net/1/1.jpg HTTP/1.1
+Host: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0
+Accept: */*
+Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1/home/%E6%A1%8C%E9%9D%A2/net/1
+Connection: keep-alive
+
+de-Insecure-Requests: 1
+
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+ction: keep-alive
+
+de-Insecure-Requests: 1
+
